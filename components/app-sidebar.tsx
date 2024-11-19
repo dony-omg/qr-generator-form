@@ -25,7 +25,7 @@ const data = {
             items: [
                 {
                     title: "Deeplink Onelink",
-                    url: "#",
+                    url: "/deeplink-onelink",
                 },
                 {
                     title: "Payment 3DS OTP",
